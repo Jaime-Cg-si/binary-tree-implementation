@@ -4,10 +4,7 @@ Implementation of binary trees with basic operations and traversal algorithms st
 
 ## Operations Implemented
 
-- [ ] Insert
-- [ ] Delete
-- [ ] Search
-- [ ] Traversals (Pre-order, In-order, Post-order)
+- [ ] Traversals (Pre-order, In-order, Post-order, Queue)
 
 ## Compilation
 
