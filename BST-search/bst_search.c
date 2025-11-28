@@ -35,7 +35,9 @@ bool search_node_x(NODE* p, int x, NODE** parent){
 
 }
 
-
+/*
+The recursive search is another implementation
+*/
 void recursive_search(NODE* p, int x, NODE** parent, bool* found){
 
     if (!p) return;
