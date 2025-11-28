@@ -1,1 +1,2 @@
 # Executáveis *.o *.a *.out a.out *.exe # VS Code .vscode/ *.code-workspace # Outros *.swp *.swo *~ .DS_Store
+# Build files build/ *.o *.exe *.out a.out

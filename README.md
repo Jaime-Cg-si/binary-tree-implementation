@@ -5,6 +5,7 @@ Implementation of binary trees with basic operations and traversal algorithms st
 ## Operations Implemented
 
 - [ ] Traversals (Pre-order, In-order, Post-order, Queue)
+- [ ] Insertion
 
 ## Compilation
 
