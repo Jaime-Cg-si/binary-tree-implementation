@@ -7,6 +7,9 @@ Implementation of binary trees with basic operations and traversal algorithms st
 - [ ] Traversals (Pre-order, In-order, Post-order, Queue)
 - [ ] Search
 - [ ] Insertion
+- [ ] AVL Tree
+- [ ] AVL Simple Rotations
+- [ ] AVL Double Rotations
 
 ## Compilation
 
