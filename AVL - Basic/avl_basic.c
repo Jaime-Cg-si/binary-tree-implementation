@@ -40,7 +40,7 @@ void update_height(NODE* p){
 int get_balance_factor(NODE* p){
 
     if (!p) return 0;
-    return get_height(p->right) = get_height(p->left);
+    return get_height(p->right) - get_height(p->left);
 
 }
 
